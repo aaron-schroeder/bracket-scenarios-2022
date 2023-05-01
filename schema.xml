@@ -1,0 +1,23 @@
+<BracketTree>
+  <depth_0 winner="true">
+    <depth_1 winner="true">
+      Team A
+    </depth_1>
+    <depth_1>
+      Team C
+    </depth_1>
+  </depth_0>
+  <depth_0>
+    <depth_1 winner="true">
+      Team B
+    </depth_1>
+    <depth_1>
+      <depth_2 winner="true">
+        Team D
+      </depth_2>
+      <depth_2>
+        Team E
+      </depth_2>
+    </depth_1>
+  </depth_0>
+</BracketTree>

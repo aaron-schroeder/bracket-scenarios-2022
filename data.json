@@ -1,0 +1,190 @@
+{
+  "winner": {
+    "winner": {
+      "winner": {
+        "winner": {
+          "winner": {
+            "winner": "Tennessee",
+            "loser": "Longwood"
+          },
+          "loser": {
+            "winner": "Michigan",
+            "loser": "Colorado State"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Ohio State",
+            "loser": "Loyola Chicago"
+          },
+          "loser": {
+            "winner": "Villanova",
+            "loser": "Delaware"
+          }
+        }
+      },
+      "loser": {
+        "winner": {
+          "winner": {
+            "winner": "Arizona",
+            "loser": "Wright State"
+          },
+          "loser": {
+            "winner": "TCU",
+            "loser": "Seton Hall"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Illinois",
+            "loser": "Chattanooga"
+          },
+          "loser": {
+            "winner": "UAB",
+            "loser": "Houston"
+          }
+        }
+      }
+    },
+    "loser": {
+      "winner": {
+        "winner": {
+          "winner": {
+            "winner": "Auburn",
+            "loser": "J'Ville St"
+          },
+          "loser": {
+            "winner": "Miami",
+            "loser": "USC"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Wisconsin",
+            "loser": "Colgate"
+          },
+          "loser": {
+            "winner": "LSU",
+            "loser": "Iowa State"
+          }
+        }
+      },
+      "loser": {
+        "winner": {
+          "winner": {
+            "winner": "Kansas",
+            "loser": "Texas Southern"
+          },
+          "loser": {
+            "winner": "Creighton",
+            "loser": "San Diego State"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "S Dakota St",
+            "loser": "Providence"
+          },
+          "loser": {
+            "winner": "Richmond",
+            "loser": "Iowa"
+          }
+        }
+      }
+    }
+  },
+  "loser": {
+    "winner": {
+      "winner": {
+        "winner": {
+          "winner": {
+            "winner": "Texas Tech",
+            "loser": "Montana State"
+          },
+          "loser": {
+            "winner": "Notre Dame",
+            "loser": "Alabama"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Michigan State",
+            "loser": "Davidson"
+          },
+          "loser": {
+            "winner": "Duke",
+            "loser": "CSU Fullerton"
+          }
+        }
+      },
+      "loser": {
+        "winner": {
+          "winner": {
+            "winner": "Gonzaga",
+            "loser": "Georgia State"
+          },
+          "loser": {
+            "winner": "Memphis",
+            "loser": "Boise State"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Arkansas",
+            "loser": "Vermont"
+          },
+          "loser": {
+            "winner": "New Mexico St",
+            "loser": "UConn"
+          }
+        }
+      }
+    },
+    "loser": {
+      "winner": {
+        "winner": {
+          "winner": {
+            "winner": "Baylor",
+            "loser": "Norfolk State"
+          },
+          "loser": {
+            "winner": "North Carolina",
+            "loser": "Marquette"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Saint Mary's",
+            "loser": "Indiana"
+          },
+          "loser": {
+            "winner": "UCLA",
+            "loser": "Akron"
+          }
+        }
+      },
+      "loser": {
+        "winner": {
+          "winner": {
+            "winner": "Virginia Tech",
+            "loser": "Texas"
+          },
+          "loser": {
+            "winner": "Purdue",
+            "loser": "Yale"
+          }
+        },
+        "loser": {
+          "winner": {
+            "winner": "Kentucky",
+            "loser": "Saint Peter's"
+          },
+          "loser": {
+            "winner": "San Francisco",
+            "loser": "Murray State"
+          }
+        }
+      }
+    }
+  }
+}

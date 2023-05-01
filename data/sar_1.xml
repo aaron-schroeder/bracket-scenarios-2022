@@ -1,0 +1,190 @@
+<BracketTree>
+	<depth_0 winner="true">
+		<depth_1 winner="true">
+			<depth_2 winner="true">
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Arizona</depth_5>
+						<depth_5>Wright State</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Seton Hall</depth_5>
+						<depth_5>TCU</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Illinois</depth_5>
+						<depth_5>Chattanooga</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Houston</depth_5>
+						<depth_5>UAB</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+			<depth_2>
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Villanova</depth_5>
+						<depth_5>Delaware</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Loyola Chicago</depth_5>
+						<depth_5>Ohio State</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Tennessee</depth_5>
+						<depth_5>Longwood</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Michigan</depth_5>
+						<depth_5>Colorado State</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+		</depth_1>
+		<depth_1>
+			<depth_2 winner="true">
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Kansas</depth_5>
+						<depth_5>Texas Southern</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Creighton</depth_5>
+						<depth_5>San Diego State</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Iowa</depth_5>
+						<depth_5>Richmond</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Providence</depth_5>
+						<depth_5>S Dakota St</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+			<depth_2>
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Auburn</depth_5>
+						<depth_5>J'Ville St</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Miami</depth_5>
+						<depth_5>USC</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Wisconsin</depth_5>
+						<depth_5>Colgate</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">LSU</depth_5>
+						<depth_5>Iowa State</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+		</depth_1>
+	</depth_0>
+	<depth_0>
+		<depth_1 winner="true">
+			<depth_2 winner="true">
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Duke</depth_5>
+						<depth_5>CSU Fullerton</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Michigan State</depth_5>
+						<depth_5>Davidson</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Alabama</depth_5>
+						<depth_5>Notre Dame</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Texas Tech</depth_5>
+						<depth_5>Montana State</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+			<depth_2>
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Gonzaga</depth_5>
+						<depth_5>Georgia State</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Memphis</depth_5>
+						<depth_5>Boise State</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">UConn</depth_5>
+						<depth_5>New Mexico St</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Arkansas</depth_5>
+						<depth_5>Vermont</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+		</depth_1>
+		<depth_1>
+			<depth_2 winner="true">
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">Kentucky</depth_5>
+						<depth_5>Saint Peter's</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">San Francisco</depth_5>
+						<depth_5>Murray State</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">Virginia Tech</depth_5>
+						<depth_5>Texas</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Purdue</depth_5>
+						<depth_5>Yale</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+			<depth_2>
+				<depth_3 winner="true">
+					<depth_4 winner="true">
+						<depth_5 winner="true">North Carolina</depth_5>
+						<depth_5>Marquette</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Baylor</depth_5>
+						<depth_5>Norfolk State</depth_5>
+					</depth_4>
+				</depth_3>
+				<depth_3>
+					<depth_4 winner="true">
+						<depth_5 winner="true">UCLA</depth_5>
+						<depth_5>Akron</depth_5>
+					</depth_4>
+					<depth_4>
+						<depth_5 winner="true">Saint Mary's</depth_5>
+						<depth_5>Indiana</depth_5>
+					</depth_4>
+				</depth_3>
+			</depth_2>
+		</depth_1>
+	</depth_0>
+</BracketTree>
